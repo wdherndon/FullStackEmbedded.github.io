@@ -7,6 +7,7 @@ $(document).ready(function(){
     var lines = new Array(pre.length+1);
     for(var i = 0; i < pre.length; i++) {
       var wrap = Math.floor(pre[i].split("").length / 70)
+      console.log("10");
       if (pre[i]==""&&i==pre.length-1) {
         lines.splice(i, 1);
       } else {
@@ -16,6 +17,7 @@ $(document).ready(function(){
         }
       }
     }
+    console.log("20");
     $(this).before("<pre class='lines'>" + lines.join("\n") + "</pre>");
   });
 
@@ -25,6 +27,7 @@ $(document).ready(function(){
     headings.push({"top":$(this).offset().top - 15,"text":$(this).text()});
   }
 
+  console.log("30");
   if($(".markdown-body h1").length > 1) $(".markdown-body h1").each(collectHeaders)
   else if($(".markdown-body h2").length > 1) $(".markdown-body h2").each(collectHeaders)
   else if($(".markdown-body h3").length > 1) $(".markdown-body h3").each(collectHeaders)
@@ -34,6 +37,7 @@ $(document).ready(function(){
     var scrolltop = $(window).scrollTop() || 0;
     if(headings[0] && scrolltop < headings[0].top) {
       $(".current-section").css({"opacity":0,"visibility":"hidden"});
+      console.log("40");
       return false;
     }
     $(".current-section").css({"opacity":1,"visibility":"visible"});
@@ -43,6 +47,7 @@ $(document).ready(function(){
       }
     }
   });
+  console.log("50");
 
   $(".current-section a").click(function(){
     $(window).scrollTop(0);
