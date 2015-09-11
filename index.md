@@ -50,15 +50,40 @@ monitor inventory in a warehouse. This is as much a quantum leap as the
 invention of the reprogrammable computer.
 
 Two essential results of the expansion of affordable embedded systems are:
-* It's easier to learn. If you can program a chip to work with a given set of
-  hardware, it's no longer a huge leap to develop something else on another
+* **It's easier to learn.** If you can program a chip to work with a given set
+  of hardware, it's no longer a huge leap to develop something else on another
   system.
-* 
+* **Development is drastically less expensive.** Because the hardware can be
+  used in multiple contexts, less specialized parts are needed. And if you're
+  short on parts you can always take old projects apart and reuse the
+  individual components.
 
-You used to have to build a chip to do what you wanted. Now you take a single
-chip and do whatever you want wih it. You're more flexible.
+That means that it's now feasible for students in Africa to build their own
+sensing systems, robots from scratch, with the right imagination and knowledge.
 
 ## Full stack: going the whole nine yards
+Devices that change lives are based on stacks of technologies that work
+together. You can't run a washing machine without power infrastructure. You
+also can't show a video without graphic drivers, codecs and speakers.
+
+Our goal at Full Stack Embedded is to show how deep stacks of technologies can
+be put together in individual projects to produce inventions that are useful in
+real life. In our projects, students learn to power their devices, collect and
+process data, and produce responses that are relevant in the real world - be it
+in the form of a webpage or the motion of a robot's arm. We can't cover ever
+technology out there, but we hope to give our students glimpses into projects
+complex enough to prepare them for whatever they decide to tackle on their own.
+
+## It's about the community
+No man is an island, and only the fewest projects are realizable without a good
+team. Full Stack Embedded strives to foster communities of students around the
+world with heterogeneous skill sets, encouraging them to work together to work
+on projects even after the course is done. That's why we found Full Stack
+Embedded chapters where we work - so that people who get to know each other
+before and during the courses have a forum to continue to collaborate in the
+future. In the long term, we hope to connect various chapters so that they can
+exchange knowledge, skills, tips, tricks and maybe even more beyond the borders
+of their own countries.
 
 # What we do
 Executive summary: Really cool stuff
