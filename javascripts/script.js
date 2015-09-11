@@ -24,7 +24,9 @@ $(document).ready(function(){
   var headings = [];
 
   var collectHeaders = function(){
-    headings.push({"top":$(this).offset().top - 15,"text":$(this).text()});
+    var headers = {"top":$(this).offset().top - 15,"text":$(this).text()};
+    console.log(headers);
+    headings.push(headers);
   }
 
   console.log("30");
