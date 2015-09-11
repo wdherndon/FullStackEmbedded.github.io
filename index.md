@@ -62,8 +62,8 @@ This needs to be moved into the "About us" page!
 
 The current contributors, code authors, soldering artists, etc. are:
 
-* Frederic Afadjigla ([@freaf87](https://github.com/@freaf87))
-* Nico Caspari ([@NicolasCaspari](https://github.com/@NicolasCaspari))
-* Bill Herndon ([@wdherndon](https://github.com/@wdherndon))
-* Daniel Lee ([@erget](https://github.com/@erget))
-* Gregor Schnee ([@schneegor](https://github.com/@schneegor))
+* Frederic Afadjigla ([@freaf87](https://github.com/freaf87))
+* Nico Caspari ([@NicolasCaspari](https://github.com/NicolasCaspari))
+* Bill Herndon ([@wdherndon](https://github.com/wdherndon))
+* Daniel Lee ([@erget](https://github.com/erget))
+* Gregor Schnee ([@schneegor](https://github.com/schneegor))
