@@ -28,10 +28,12 @@ $(document).ready(function(){
   }
 
   console.log("30");
+  console.log($(".markdown-body h1"));
   if($(".markdown-body h1").length > 1) $(".markdown-body h1").each(collectHeaders)
   else if($(".markdown-body h2").length > 1) $(".markdown-body h2").each(collectHeaders)
   else if($(".markdown-body h3").length > 1) $(".markdown-body h3").each(collectHeaders)
   console.log("headings length:");
+  // This is 0, why?
   console.log(headings.length);
 
   $(window).scroll(function(){
