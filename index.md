@@ -19,8 +19,7 @@ funds, lacking education and lacking materials.
 
 ## The times, they are a-changing
 The times are changing, though. [According to the United Nations Population
-Fund,]
-(http://www.unfpa.org/resources/state-world-population-2014-press-summary)
+Fund,](http://www.unfpa.org/resources/state-world-population-2014-press-summary)
 there has never been a time when the world has had so many young people. There
 will probably never be a time when the world has so many people of working age
 able to devote their time and energy to inventing, developing and expanding our
@@ -36,8 +35,8 @@ mouths to feed than ever before. If we want to overcome these problems as a
 species, we need as many ideas and inventions as we can get - and most of the
 world's brightest minds are in developing countries, waiting for the
 opportunity to realize their dreams. Educating them and getting them networked
-with each other will unlock the answers to questions that haven't even been
-asked yet.
+with each other will unlock the answers to pressing problems and questions that
+haven't even been asked yet.
 
 ## Embedded: the game-changing new kid on the block
 You used to have to build a chip to do what you wanted. Now you take a single
@@ -63,8 +62,8 @@ This needs to be moved into the "About us" page!
 
 The current contributors, code authors, soldering artists, etc. are:
 
-* Frederic Afadjigla (@freaf87)
-* Nico Caspari (@NicolasCaspari)
-* Bill Herndon (@wdherndon)
-* Daniel Lee (@erget)
-* Gregor Schnee (@schneegor)
+* Frederic Afadjigla ([@freaf87](https://github.com/@freaf87))
+* Nico Caspari ([@NicolasCaspari](https://github.com/@NicolasCaspari))
+* Bill Herndon ([@wdherndon](https://github.com/@wdherndon))
+* Daniel Lee ([@erget](https://github.com/@erget))
+* Gregor Schnee ([@schneegor](https://github.com/@schneegor))
