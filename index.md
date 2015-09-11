@@ -50,6 +50,7 @@ monitor inventory in a warehouse. This is as much a quantum leap as the
 invention of the reprogrammable computer.
 
 Two essential results of the expansion of affordable embedded systems are:
+
 * **It's easier to learn.** If you can program a chip to work with a given set
   of hardware, it's no longer a huge leap to develop something else on another
   system.
