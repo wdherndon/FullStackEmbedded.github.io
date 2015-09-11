@@ -35,6 +35,7 @@ $(document).ready(function(){
   $(window).scroll(function(){
     if(headings.length==0) return true;
     var scrolltop = $(window).scrollTop() || 0;
+    console.log("Checking scroll state");
     if(headings[0] && scrolltop < headings[0].top) {
       $(".current-section").css({"opacity":0,"visibility":"hidden"});
       console.log("40");
