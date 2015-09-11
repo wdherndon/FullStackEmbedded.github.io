@@ -460,7 +460,7 @@ h1.title {
   margin: 0 auto;
 }
 
-@media all and (max-width: 685px) {
+@media all and (max-width: 720px) {
   .wrapper {
     width: 90%;
     margin: 0 auto;
@@ -584,7 +584,7 @@ p.tagline {
   -webkit-transition: opacity ease-in-out 0.3s;  /* Safari <=6.1, Android <= 4.3 */
 }
 
-@media all and (max-width: 685px) {
+@media all and (max-width: 720px) {
   .current-section {
     position: fixed;
     top: 0;
