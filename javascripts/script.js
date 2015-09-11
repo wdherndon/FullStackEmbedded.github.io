@@ -33,6 +33,7 @@ $(document).ready(function(){
   else if($(".markdown-body h3").length > 1) $(".markdown-body h3").each(collectHeaders)
 
   $(window).scroll(function(){
+    console.log("Checking headings length");
     if(headings.length==0) return true;
     console.log("Upper bracket");
     var scrolltop = $(window).scrollTop() || 0;
