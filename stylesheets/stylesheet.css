@@ -462,7 +462,7 @@ h1.title {
 
 @media all and (max-width: 674px) {
   .wrapper {
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
   }
 }
@@ -582,6 +582,23 @@ p.tagline {
   visibility: hidden;
   transition: opacity ease-in-out 0.3s;
   -webkit-transition: opacity ease-in-out 0.3s;  /* Safari <=6.1, Android <= 4.3 */
+}
+
+@media all and (max-width: 674px) {
+  .current-section {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    width: 95%;
+    margin-left: -48%;
+    background: #222;
+    border: 5px solid #444;
+    color: #fff;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity ease-in-out 0.3s;
+    -webkit-transition: opacity ease-in-out 0.3s;  /* Safari <=6.1, Android <= 4.3 */
+  }
 }
 
 .current-section p {
