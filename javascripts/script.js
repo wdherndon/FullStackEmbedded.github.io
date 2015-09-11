@@ -31,6 +31,8 @@ $(document).ready(function(){
   if($(".markdown-body h1").length > 1) $(".markdown-body h1").each(collectHeaders)
   else if($(".markdown-body h2").length > 1) $(".markdown-body h2").each(collectHeaders)
   else if($(".markdown-body h3").length > 1) $(".markdown-body h3").each(collectHeaders)
+  console.log("headings length:");
+  console.log(headings.length);
 
   $(window).scroll(function(){
     console.log("Headings length is:");
