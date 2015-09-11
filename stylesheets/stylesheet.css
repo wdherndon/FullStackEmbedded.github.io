@@ -460,7 +460,7 @@ h1.title {
   margin: 0 auto;
 }
 
-@media all and (min-width: 674px) {
+@media all and (max-width: 674px) {
   .wrapper {
     width: 100%;
     margin: 0 auto;
