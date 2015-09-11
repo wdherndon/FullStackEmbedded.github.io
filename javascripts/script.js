@@ -27,6 +27,7 @@ $(document).ready(function(){
     var headers = {"top":$(this).offset().top - 15,"text":$(this).text()};
     console.log(headers);
     headings.push(headers);
+    console.log(headings);
   }
 
   console.log("30");
