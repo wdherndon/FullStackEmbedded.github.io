@@ -34,6 +34,7 @@ $(document).ready(function(){
 
   $(window).scroll(function(){
     console.log("Checking headings length");
+    console.log(headings);
     if(headings.length==0) return true;
     console.log("Upper bracket");
     var scrolltop = $(window).scrollTop() || 0;
