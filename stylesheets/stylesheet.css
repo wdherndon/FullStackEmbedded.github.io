@@ -460,6 +460,10 @@ h1.title {
   margin: 0 auto;
 }
 
+@media all and (min-width: 674px) {
+  width: 100%;
+}
+
 #container {
   border: 1px solid #2a2a2a;
   background: #ddd url(../images/pattern.png);

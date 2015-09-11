@@ -15,14 +15,16 @@ technology. Sometimes solutions have been imported into developing countries
 that weren't even needed. A consistent trend has been that the people of
 developing countries - especially young people - have had few opportunities to
 improve their own lives and those of the people around them, due to lacking
-funds, lacking education and lacking materials.
+funds, lacking education and lacking materials. Technology can't solve all of
+the problems in the world, but putting the right tools into these people's
+hands can go a long way to 
 
 ## The times, they are a-changing
 The times are changing, though. [According to the United Nations Population
 Fund,](http://www.unfpa.org/resources/state-world-population-2014-press-summary)
-there has never been a time when the world has had so many young people. There
-will probably never be a time when the world has so many people of working age
-able to devote their time and energy to inventing, developing and expanding our
+there has never been a time when the world had so many young people. There will
+probably never be a time when the world has so many people of working age able
+to devote their time and energy to inventing, developing and expanding our
 society's resources. Around 9 out of every 10 young people lives in a
 developing country right now. These people need and deserve the ability to
 improve their own lives, in their own way.
@@ -39,23 +41,29 @@ with each other will unlock the answers to pressing problems and questions that
 haven't even been asked yet.
 
 ## Embedded: the game-changing new kid on the block
+One of the disruptive new technologies making this possible are embedded
+systems. In the past, when a new device was developed, everything was custom
+made for that device. Now, reprogrammable chips can be embedded into any kind
+of system and configured to work with the available hardware. The same small
+computer can be used to monitor soil moisture, publish websites, fly a drone or
+monitor inventory in a warehouse. This is as much a quantum leap as the
+invention of the reprogrammable computer.
+
+Two essential results of the expansion of affordable embedded systems are:
+* It's easier to learn. If you can program a chip to work with a given set of
+  hardware, it's no longer a huge leap to develop something else on another
+  system.
+* 
+
 You used to have to build a chip to do what you wanted. Now you take a single
 chip and do whatever you want wih it. You're more flexible.
 
 ## Full stack: going the whole nine yards
 
 # What we do
-# A network of chapters
+Executive summary: Really cool stuff
 
-# Some drivel
-We've got a mission and we won't stop till we drop.
-
-By the way, we still need a logo! Hot damn. We could use that the footer, and
-link to somewhere cooler - perhaps GitHub for now, but at some later date maybe
-the project report from IoG, if we decide to go with IoG? Weight and sea.
-
-# This is a second heading
-If suddenly my JS works, I'll be a bit upset.
+# No rest for the wicked: A network of chapters
 
 ## Authors and contributors
 This needs to be moved into the "About us" page!
