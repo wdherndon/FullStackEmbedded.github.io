@@ -87,10 +87,27 @@ exchange knowledge, skills, tips, tricks bilaterally. Although Full Stack
 Embedded originated in Europe, Europe should not be its permanent nexus.
 
 # What we do
-Executive summary: Really cool stuff
+Having a great vision doesn't get you anywhere if you don't have concrete
+goals. At its core, Full Stack Embedded is all about sharing knowledge and
+empowering people through submersion courses, but there are lots of things we
+do beyond that.
 
-## Develop open source stuff
-This includes hardware, software and curricula.
+## Open source hardware for the real world
+We develop hardware that we use for our courses. The projects have few
+criteria, but they're all important:
+
+1. **It's simple.** Our participants have varying degrees of knowledge of
+   electronics and programming. Our projects are hard, but doable for beginners
+   - we work with them every step of the way.
+1. **It's usable in the real world.** It's just not interesting do work on a
+   project that seems pointless.
+1. **We can publish the sources.** If you can do it better, go for it. And
+   while you're at it, send us a pull request!
+
+Our projects require us to produce a lot of things - hardware, software,
+documentation, teaching curricula. All of it is published, out in the open, so
+anybody can take it and use it for whatever they want. See a way to improve it?
+Collaborators are welcome!
 
 ## Teach students in the developing world
 We look for local partners, go there and teach the course.
