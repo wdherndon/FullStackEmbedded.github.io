@@ -97,8 +97,8 @@ We develop hardware that we use for our courses. The projects have few
 criteria, but they're all important:
 
 1. **It's simple.** Our participants have varying degrees of knowledge of
-   electronics and programming. Our projects are hard, but doable for beginners
-   - we work with them every step of the way.
+   electronics and programming. Our projects are hard, but doable for
+   beginners - we work with them every step of the way.
 1. **It's usable in the real world.** It's just not interesting do work on a
    project that seems pointless.
 1. **We can publish the sources.** If you can do it better, go for it. And
