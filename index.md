@@ -83,18 +83,30 @@ on projects even after the course is done. That's why we found Full Stack
 Embedded chapters where we work - so that people who get to know each other
 before and during the courses have a forum to continue to collaborate in the
 future. In the long term, we hope to connect various chapters so that they can
-exchange knowledge, skills, tips, tricks and maybe even more beyond the borders
-of their own countries.
+exchange knowledge, skills, tips, tricks bilaterally. Although Full Stack
+Embedded originated in Europe, Europe should not be its permanent nexus.
 
 # What we do
 Executive summary: Really cool stuff
 
-# No rest for the wicked: A network of chapters
+## Develop open source stuff
+This includes hardware, software and curricula.
 
-## Authors and contributors
-This needs to be moved into the "About us" page!
+## Teach students in the developing world
+We look for local partners, go there and teach the course.
 
-The current contributors, code authors, soldering artists, etc. are:
+## Growing the community
+After we're gone the local chapter continues, giving courses, developing new
+devices, and releasing them to the rest of the community. We stay in contact
+but try to let them take over and do the driving.
+
+# Current chapters
+Right now only one chapter exists: Frankfurt. A chapter in Lomé, Togo is taking
+its first baby steps now and will hopefully have a presence on this page soon.
+
+# Who are these crazy people?
+The current contributors, code authors, soldering artists, etc. are the brave
+men of the Frankfurt chapter:
 
 * Frederic Afadjigla ([@freaf87](https://github.com/freaf87))
 * Nico Caspari ([@NicolasCaspari](https://github.com/NicolasCaspari))
