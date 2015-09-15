@@ -101,6 +101,11 @@ criteria, but they're all important:
    beginners - we work with them every step of the way.
 1. **It's usable in the real world.** It's just not interesting do work on a
    project that seems pointless.
+1. **It uses a deep stack of technologies.** Life changing technologies have a
+   lot of dependencies. We try to produce projects that teach everything from
+   working with power sources, sensing and interacting with the real world and
+   doing something useful - if possible, while making the data it collects
+   available to other devices.
 1. **We can publish the sources.** If you can do it better, go for it. And
    while you're at it, send us a pull request!
 
@@ -110,7 +115,12 @@ anybody can take it and use it for whatever they want. See a way to improve it?
 Collaborators are welcome!
 
 ## Teach students in the developing world
-We look for local partners, go there and teach the course.
+Our target group is people in the developing world. We try to find local
+organizations that we can partner with to offer a course for 2-6 weeks.
+Optimally, our participants found a local chapter of Full Stack Embedded and
+coordinate with us to help us tailor the course to their needs.
+
+A course is run as a project in which the students build 
 
 ## Growing the community
 After we're gone the local chapter continues, giving courses, developing new
@@ -121,7 +131,9 @@ but try to let them take over and do the driving.
 Right now only one chapter exists: Frankfurt. A chapter in Lomé, Togo is taking
 its first baby steps now and will hopefully have a presence on this page soon.
 
-# Who are these crazy people?
+## FSE Frankfurt
+
+### Who are these crazy people?
 The current contributors, code authors, soldering artists, etc. are the brave
 men of the Frankfurt chapter:
 
@@ -130,3 +142,9 @@ men of the Frankfurt chapter:
 * Bill Herndon ([@wdherndon](https://github.com/wdherndon))
 * Daniel Lee ([@erget](https://github.com/erget))
 * Gregor Schnee ([@schneegor](https://github.com/schneegor))
+
+### Devices
+The stuff we make
+
+### Courses
+Where we've been, where we're going.
