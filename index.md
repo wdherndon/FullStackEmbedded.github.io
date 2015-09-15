@@ -120,12 +120,22 @@ organizations that we can partner with to offer a course for 2-6 weeks.
 Optimally, our participants found a local chapter of Full Stack Embedded and
 coordinate with us to help us tailor the course to their needs.
 
-A course is run as a project in which the students build 
+A course is run as a project in which the students build a useful piece of
+hardware. The participants are split into different groups that work
+intensively on a specific portion of the entire project. The groups meet often
+to coordinate and specify interfaces. This way, the students are able to gain
+in-depth knowledge of the systems they work with, while networking with others
+who they can work with in the future to complete more complex projects.
 
 ## Growing the community
-After we're gone the local chapter continues, giving courses, developing new
-devices, and releasing them to the rest of the community. We stay in contact
-but try to let them take over and do the driving.
+After a course is done, we stay in contact with the groups. The local chapter
+is encouraged to offer courses of its own, as well as develop new projects. If
+we get the chance, we return to the same group later on with more challenging
+projects.
+
+It's important to us that our are connected with other members of the
+community. We encourage bilateral contact between chapters and the pursuit of
+their own projects.
 
 # Current chapters
 Right now only one chapter exists: Frankfurt. A chapter in Lomé, Togo is taking
@@ -133,7 +143,7 @@ its first baby steps now and will hopefully have a presence on this page soon.
 
 ## FSE Frankfurt
 
-### Who are these crazy people?
+### Members
 The current contributors, code authors, soldering artists, etc. are the brave
 men of the Frankfurt chapter:
 
@@ -144,7 +154,10 @@ men of the Frankfurt chapter:
 * Gregor Schnee ([@schneegor](https://github.com/schneegor))
 
 ### Devices
-The stuff we make
+Our current project is a cheap, solar powered weather station that communicates
+its observations using a web server. The hardware is controlled by a Raspberry
+Pi.
 
 ### Courses
-Where we've been, where we're going.
+Currently we're planning a course for 2016 in Lomé, Togo. The project will be
+the weather server we're currently developing.
