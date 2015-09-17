@@ -31,7 +31,7 @@ improve their own lives, in their own way.
 
 ## The world needs smart minds
 This idea isn't based on good will or idealism alone. Mankind is approaching
-the largest midst of the largest crisis it has ever seen. Resources are
+the largest crisis it has ever seen. Resources are
 limited. Poverty is widespread. The environment is degrading. There are more
 mouths to feed than ever before. If we want to overcome these problems as a
 species, we need as many ideas and inventions as we can get - and most of the
@@ -60,9 +60,10 @@ Two essential results of the expansion of affordable embedded systems are:
   individual components.
 
 That means that it's now feasible for students in Africa to build their own
-sensing systems, robots from scratch, with the right imagination and knowledge.
+sensing systems and robots from scratch, with the right imagination and
+knowledge.
 
-## Full stack: going the whole nine yards
+## Full stack: going the whole distance
 Devices that change lives are based on stacks of technologies that work
 together. You can't run a washing machine without power infrastructure. You
 also can't show a video without graphic drivers, codecs and speakers.
@@ -71,14 +72,14 @@ Our goal at Full Stack Embedded is to show how deep stacks of technologies can
 be put together in individual projects to produce inventions that are useful in
 real life. In our projects, students learn to power their devices, collect and
 process data, and produce responses that are relevant in the real world - be it
-in the form of a webpage or the motion of a robot's arm. We can't cover ever
+in the form of a webpage or the motion of a robot's arm. We can't cover every
 technology out there, but we hope to give our students glimpses into projects
 complex enough to prepare them for whatever they decide to tackle on their own.
 
 ## It's about the community
 No man is an island, and only the fewest projects are realizable without a good
 team. Full Stack Embedded strives to foster communities of students around the
-world with heterogeneous skill sets, encouraging them to work together to work
+world with heterogeneous skill sets, encouraging them to work together
 on projects even after the course is done. That's why we found Full Stack
 Embedded chapters where we work - so that people who get to know each other
 before and during the courses have a forum to continue to collaborate in the
@@ -89,7 +90,7 @@ Embedded originated in Europe, Europe should not be its permanent nexus.
 # What we do
 Having a great vision doesn't get you anywhere if you don't have concrete
 goals. At its core, Full Stack Embedded is all about sharing knowledge and
-empowering people through submersion courses, but there are lots of things we
+empowering people through immersion courses, but there are lots of things we
 do beyond that.
 
 ## Open source hardware for the real world
